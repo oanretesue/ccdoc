@@ -1,0 +1,7 @@
+# $argsCount
+Returns the amount of user arguments.
+
+#### Usage: `$argsCount`
+
+##### Function Difficultly: <Badge type="tip" text="Easy" vertical="middle" /> 
+###### Tags: <Badge type="tip" text="arguments" vertical="middle" /> <Badge type="tip" text="count" vertical="middle" /> <Badge type="tip" text="message" vertical="middle" /> <Badge type="tip" text="command" vertical="middle" /> <Badge type="tip" text="argument" vertical="middle" />
